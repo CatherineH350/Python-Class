@@ -19,3 +19,9 @@ print("x // y = " + str(x//y))
 
 #Output: x ** y = 49 
 print("x ** y = " + str(x**y))
+
+a = 5
+print(a + 2)
+print(a)
+a += 2
+print(a)
